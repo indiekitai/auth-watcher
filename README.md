@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # auth-watcher 🔐
 
 Monitor SSH login attempts on your server. See who's trying to break in.
